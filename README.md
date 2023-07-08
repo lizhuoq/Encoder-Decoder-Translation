@@ -19,7 +19,8 @@ The`train.en`and`train.zh`files are training collections in English and Chinese,
 The`test.en`and`test.zh`files are testing collections in English and Chinese, respectively  
 The test and dev data are the same  
 **Provides weight files for training 30 epochs**:`30epochs.pth`  
-`data.json `: The file contains custom tables, training sets, and test sets in both English and Chinese  
+`data.json `: The file contains custom tables, training sets, and test sets in both English and Chinese   
+**google drive link to the `data.json` and `30epochs.pth`: `https://drive.google.com/file/d/1NyDvDWnHFjWdJc7mcqHrduB4jnjFWjeM/view?usp=sharing, https://drive.google.com/file/d/1jQW70984pbm8bjJHvN0EnK5Qffwr8zW7/view?usp=sharing`**
 ## network structure  
 GRU is used in both Encoder and Decoder  
 - embed-dim = 64
